@@ -22,7 +22,7 @@ docker-compose up ai-app
 ├── docker-compose.yml   # Services setup
 ├── requirements.txt     # Python dependencies
 ├── main.py             # Demo script
-├── src/                # Your source code
+├── src/                # Source code
 ├── data/               # Datasets
 ├── models/             # Saved models
 └── notebooks/          # Jupyter notebooks
