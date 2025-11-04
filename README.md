@@ -1,4 +1,4 @@
-# AI/ML Docker Project 🤖
+# AI/ML Docker Project
 
 A professional Docker environment for AI and Machine Learning development with Python.
 
@@ -6,8 +6,8 @@ A professional Docker environment for AI and Machine Learning development with P
 ```bash
 
 # Create directories
-mkdir -p src data models notebooks
-
+mkdir -p src data models notebooks # For linux/Macos
+mkdir src, data, models, notebooks # For win powershell
 # Build the container
 docker-compose build
 
